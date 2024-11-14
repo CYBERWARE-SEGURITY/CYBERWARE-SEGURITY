@@ -20,7 +20,7 @@
   <img align="center" alt="visual-studio" height="40" width="40" src="https://cdn.icon-icons.com/icons2/195/PNG/256/Visual_Studio_23517.png">
     <img align="center" alt="vscode" height="40" width="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/microsoft_visual_studio_code_alt_macos_bigsur_icon_189955.png">
     <img align="center" alt="KaliLinux" height="40" width="40" src="https://cdn.icon-icons.com/icons2/46/PNG/128/linux_penguin_animal_9362.png">
-    <img align="center" alt="Windows" height="40" width="40" src="">
+    <img align="center" alt="Windows" height="40" width="40" src="https://cdn.icon-icons.com/icons2/5/PNG/256/windows_284.png">
     <img align="center" alt="Windows" height="40" width="40" src="">
 </div>
   
