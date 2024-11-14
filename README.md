@@ -25,7 +25,7 @@
     <img align="center" alt="WinTerminal" height="40" width="40" src="https://cdn.icon-icons.com/icons2/3266/PNG/512/terminal_box_icon_207302.png">
     <img align="center" alt="notepad++" height="40" width="40" src="https://cdn.icon-icons.com/icons2/153/PNG/256/notepad_21851.png">
     <img align="center" alt="nuget" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_nuget_icon_130294.png">
-    <img align="center" alt="net" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/dot_net_original_wordmark_logo_icon_146547.png">
+    <img align="center" alt="net" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/dot_net_plain_wordmark_logo_icon_146545.png">
     <img align="center" alt=" " height="40" width="40" src="">
 </div>
   
