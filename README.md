@@ -33,7 +33,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="visual-studio" height="40" width="40" src="https://cdn.icon-icons.com/icons2/195/PNG/256/Visual_Studio_23517.png">
     <img align="center" alt="vscode" height="50" width="50" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/microsoft_visual_studio_code_alt_macos_bigsur_icon_189955.png">
-    <img align="center" alt="KaliLinux" height="40" width="40" src="https://cdn.icon-icons.com/icons2/46/PNG/128/linux_penguin_animal_9362.png">
+    <img align="center" alt="Linux" height="40" width="40" src="https://cdn.icon-icons.com/icons2/46/PNG/128/linux_penguin_animal_9362.png">
     <img align="center" alt="Windows" height="40" width="40" src="https://cdn.icon-icons.com/icons2/5/PNG/256/windows_284.png">
     <img align="center" alt="GITHUB" height="40" width="40" src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png">
     <img align="center" alt="WinTerminal" height="40" width="40" src="https://cdn.icon-icons.com/icons2/3266/PNG/512/terminal_box_icon_207302.png">
@@ -43,7 +43,7 @@
     <img align="center" alt="VMware" height="40" width="40" src="https://cdn.icon-icons.com/icons2/195/PNG/256/VMware_23516.png">
     <img align="center" alt="regedit" height="40" width="40" src="https://cdn.icon-icons.com/icons2/17/PNG/256/regedit_1983.png">
     <img align="center" alt="nasm" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nasm_icon_132182.png">
-    <img align="center" alt=" " height="40" width="40" src=" ">
+    <img align="center" alt="KaliLinux" height="40" width="40" src="https://icons.iconarchive.com/icons/simpleicons-team/simple/128/kali-linux-icon.png">
     <img align="center" alt=" " height="40" width="40" src=" ">
     <img align="center" alt=" " height="40" width="40" src=" ">
     <img align="center" alt=" " height="40" width="40" src=" ">
