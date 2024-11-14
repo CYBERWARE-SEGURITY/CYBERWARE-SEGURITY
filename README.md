@@ -6,15 +6,15 @@
 </div>
 
 ### My Programming Languages
-![C](https://img.shields.io/badge/C-Expert-blue)
-![C++](https://img.shields.io/badge/C++-Expert-blue)
-![C#](https://img.shields.io/badge/C%23-Expert-brightgreen)
+![C](https://img.shields.io/badge/C-DOMINATED-blue)
+![C++](https://img.shields.io/badge/C++-DOMINATED-blue)
+![C#](https://img.shields.io/badge/C%23-DOMINATED-brightgreen)
 ![SQL](https://img.shields.io/badge/SQL-Expert-orange)
 ![Batch](https://img.shields.io/badge/Batch-Expert-purple)
 ![Powershell](https://img.shields.io/badge/Powershell-Expert-lightblue)
 ![Python](https://img.shields.io/badge/Python-Expert-yellow)
-![HTML](https://img.shields.io/badge/HTML-Expert-red)
-![ASM%20x86--x64](https://img.shields.io/badge/ASM%20x86--x64-Expert-gray)
+![HTML](https://img.shields.io/badge/HTML-DOMINATED-red)
+![ASM%20x86--x64](https://img.shields.io/badge/ASM%20x86--x64-Advanced-gray)
 
 
 ##
