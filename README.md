@@ -23,7 +23,7 @@
     <img align="center" alt="Windows" height="40" width="40" src="https://cdn.icon-icons.com/icons2/5/PNG/256/windows_284.png">
     <img align="center" alt="GITHUB" height="40" width="40" src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png">
     <img align="center" alt="WinTerminal" height="40" width="40" src="https://cdn.icon-icons.com/icons2/3266/PNG/512/terminal_box_icon_207302.png">
-    <img align="center" alt=" " height="40" width="40" src="">
+    <img align="center" alt="notepad++" height="40" width="40" src="https://cdn.icon-icons.com/icons2/153/PNG/256/notepad_21851.png">
     <img align="center" alt=" " height="40" width="40" src="">
 </div>
   
