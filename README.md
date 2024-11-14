@@ -16,16 +16,16 @@
 ![HTML](https://img.shields.io/badge/HTML-DOMINATED-red)
 ![ASM%20x86--x64](https://img.shields.io/badge/ASM%20x86--x64-Advanced-darkgreen)
 
-
 ##
 
-### Most Used Languages
+### Most used languages ​​recently
 <div style="display: inline_block"><br>
   <img align="center" alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
-  <img align="center" alt="Cpp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="C++" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="C#" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="SQL" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_sql_icon_130152.png">
 </div>
+  ![Batch](https://img.shields.io/badge/Batch)
 
 ##
 
