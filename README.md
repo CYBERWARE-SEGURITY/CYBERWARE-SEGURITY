@@ -7,20 +7,20 @@
 
 ### Main Languages
 <div style="display: inline_block"><br>
-  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
-  <img align="center" alt="Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_sql_icon_130152.png">
+  <img align="center" alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
+  <img align="center" alt="Cpp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="SQL" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_sql_icon_130152.png">
 </div>
 
 ##
 
 ### Main Tools
 <div style="display: inline_block"><br>
-  <img align="center" alt="visual-studio" height="30" width="40" src="https://cdn.icon-icons.com/icons2/195/PNG/256/Visual_Studio_23517.png">
-  <img align="center" alt="Cpp" height="30" width="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/microsoft_visual_studio_code_alt_macos_bigsur_icon_189955.png">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_sql_icon_130152.png">
+  <img align="center" alt="visual-studio" height="40" width="40" src="https://cdn.icon-icons.com/icons2/195/PNG/256/Visual_Studio_23517.png">
+  <img align="center" alt="Cpp" height="40" width="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/microsoft_visual_studio_code_alt_macos_bigsur_icon_189955.png">
+  <img align="center" alt="Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="SQL" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_sql_icon_130152.png">
 </div>
   
   ##
