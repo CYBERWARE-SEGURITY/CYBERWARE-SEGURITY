@@ -11,7 +11,6 @@
   <img align="center" alt="Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="SQL" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_sql_icon_130152.png">
-  <img align="center" alt="POWERSHELL" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_powershell_icon_130243.png">
 </div>
 
 ##
