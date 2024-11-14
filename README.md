@@ -42,6 +42,10 @@
     <img align="center" alt="net" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/dot_net_plain_wordmark_logo_icon_146545.png">
     <img align="center" alt="VMware" height="40" width="40" src="https://cdn.icon-icons.com/icons2/195/PNG/256/VMware_23516.png">
     <img align="center" alt="regedit" height="40" width="40" src="https://cdn.icon-icons.com/icons2/17/PNG/256/regedit_1983.png">
+    <img align="center" alt="nasm" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nasm_icon_132182.png">
+    <img align="center" alt=" " height="40" width="40" src=" ">
+    <img align="center" alt=" " height="40" width="40" src=" ">
+    <img align="center" alt=" " height="40" width="40" src=" ">
     <img align="center" alt=" " height="40" width="40" src=" ">
 </div>
   
