@@ -24,8 +24,8 @@
   <img align="center" alt="C++" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="C#" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="SQL" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_sql_icon_130152.png">
+    ![Batch](https://img.shields.io/badge/Batch-)
 </div>
-  ![Batch](https://img.shields.io/badge/Batch-)
 
 ##
 
