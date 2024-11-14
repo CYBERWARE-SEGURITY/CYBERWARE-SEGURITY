@@ -5,16 +5,16 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CYBERWARE-SEGURITY&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-### My Programming Languages
+### Languages I Know
 ![C](https://img.shields.io/badge/C-DOMINATED-blue)
 ![C++](https://img.shields.io/badge/C++-DOMINATED-blue)
-![C#](https://img.shields.io/badge/C%23-DOMINATED-brightgreen)
+![C#](https://img.shields.io/badge/C%23-DOMINATED-purple)
 ![SQL](https://img.shields.io/badge/SQL-Expert-orange)
 ![Batch](https://img.shields.io/badge/Batch-Expert-purple)
 ![Powershell](https://img.shields.io/badge/Powershell-Expert-lightblue)
 ![Python](https://img.shields.io/badge/Python-Expert-yellow)
 ![HTML](https://img.shields.io/badge/HTML-DOMINATED-red)
-![ASM%20x86--x64](https://img.shields.io/badge/ASM%20x86--x64-Advanced-gray)
+![ASM%20x86--x64](https://img.shields.io/badge/ASM%20x86--x64-Advanced-darkgreen)
 
 
 ##
