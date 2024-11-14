@@ -1,4 +1,4 @@
-## Hi, My Name is CYBERWARE!!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0E50E9&size=35&center=true&vCenter=true&width=1000&lines=HI!;My+Name+is+CYBERWARE;Welcome+to+my+GITHUB+Repository;)](https://git.io/typing-svg)
 
 ### Main Languages
 <div style="display: inline_block"><br>
