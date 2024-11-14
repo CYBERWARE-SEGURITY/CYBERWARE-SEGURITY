@@ -26,7 +26,7 @@
     <img align="center" alt="notepad++" height="40" width="40" src="https://cdn.icon-icons.com/icons2/153/PNG/256/notepad_21851.png">
     <img align="center" alt="nuget" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_nuget_icon_130294.png">
     <img align="center" alt="net" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/dot_net_plain_wordmark_logo_icon_146545.png">
-    <img align="center" alt=" " height="40" width="40" src="">
+    <img align="center" alt="VMware" height="40" width="40" src="https://cdn.icon-icons.com/icons2/195/PNG/256/VMware_23516.png">
 </div>
   
   ##
