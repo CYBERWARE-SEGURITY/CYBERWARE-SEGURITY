@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0E50E9&size=35&center=true&vCenter=true&width=1000&lines=HI!;My+Name+is+CYBERWARE;Welcome+to+my+GITHUB+Repository;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF22&size=50&center=true&vCenter=true&width=1000&lines=HI!;My+Name+is+CYBERWARE;Welcome+to+my+GITHUB+Repository;)](https://git.io/typing-svg)
 
 ### Main Languages
 <div style="display: inline_block"><br>
