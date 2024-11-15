@@ -42,6 +42,7 @@
     <img align="center" alt="VMware" height="40" width="40" src="https://cdn.icon-icons.com/icons2/195/PNG/256/VMware_23516.png">
     <img align="center" alt="regedit" height="40" width="40" src="https://cdn.icon-icons.com/icons2/17/PNG/256/regedit_1983.png">
     <img align="center" alt="nasm" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nasm_icon_132182.png">
+    <img align="center" alt="MariaDB" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_mariadb_icon_130403.png">
     <img align="center" alt="KaliLinux" height="40" width="40" src="https://icons.iconarchive.com/icons/simpleicons-team/simple/128/kali-linux-icon.png">
     <img align="center" alt="Mysql" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mysql_official_logo_icon_169938.png">
     <img align="center" alt="GNUBash" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/gnu_bash_logo_icon_170079.png">
