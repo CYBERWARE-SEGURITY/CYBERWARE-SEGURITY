@@ -15,7 +15,7 @@
 ![Powershell](https://img.shields.io/badge/Powershell-Expert-lightblue)
 ![Python](https://img.shields.io/badge/Python-Expert-yellow)
 ![HTML](https://img.shields.io/badge/HTML-DOMINATED-red)
-![ASM%20x86--x64]([https://img.shields.io/badge/ASM%20x86--x64-Advanced-darkgreen](https://cdn.hackr.io/uploads/topics/1507565940Mt96nRTIF8.png))
+![ASM%20x86--x64]([https://img.shields.io/badge/ASM%20x86--x64-Advanced-darkgreen])
 
 ##
 
