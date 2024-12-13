@@ -14,7 +14,7 @@
 ![Powershell](https://img.shields.io/badge/Powershell-Expert-lightblue)
 ![Python](https://img.shields.io/badge/Python-Expert-yellow)
 ![HTML](https://img.shields.io/badge/HTML-DOMINATED-red)
-![ASM x86](https://img.shields.io/badge/ASM%20x86--x64-Advanced-darkgreen)
+![Assembly x86](https://img.shields.io/badge/ASM%20x86-Advanced-darkgreen)
 
 ##
 
