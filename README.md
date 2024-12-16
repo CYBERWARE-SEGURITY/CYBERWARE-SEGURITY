@@ -43,7 +43,7 @@
 <div style="display: inline_block">
   <img align="center" alt="TypeScript" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png">
   <img align="center" alt="REACT" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png">
-  <img align="center" alt="NODE-JS" height="60" width="60" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_wordmark_logo_icon_146412.png">
+  <img align="center" alt="NODE-JS" height="69" width="69" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_wordmark_logo_icon_146412.png">
 </div>
 
   ##
