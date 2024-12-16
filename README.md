@@ -18,9 +18,9 @@
 
 ### Main Tools
 <div style="display: inline_block"><br>
-  <img align="center" alt="visual-studio" height="40" width="40" src="https://cdn.icon-icons.com/icons2/195/PNG/256/Visual_Studio_23517.png">
-    <img align="center" alt="vscode" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png">
-    <img align="center" alt="Linux" height="40" width="40" src="https://cdn.icon-icons.com/icons2/46/PNG/128/linux_penguin_animal_9362.png">
+  <img align="center" alt="VISUAL STUDIO" height="40" width="40" src="https://cdn.icon-icons.com/icons2/195/PNG/256/Visual_Studio_23517.png">
+    <img align="center" alt="VSCODE" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png">
+    <img align="center" alt="LINUX" height="40" width="40" src="https://cdn.icon-icons.com/icons2/46/PNG/128/linux_penguin_animal_9362.png">
     <img align="center" alt="Windows" height="40" width="40" src="https://cdn.icon-icons.com/icons2/5/PNG/256/windows_284.png">
     <img align="center" alt="GITHUB" height="40" width="40" src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png">
     <img align="center" alt="Powershell" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_powershell_icon_130243.png">
@@ -29,7 +29,6 @@
     <img align="center" alt="nuget" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_nuget_icon_130294.png">
     <img align="center" alt="net" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/dot_net_plain_wordmark_logo_icon_146545.png">
     <img align="center" alt="VMware" height="40" width="40" src="https://cdn.icon-icons.com/icons2/195/PNG/256/VMware_23516.png">
-    <img align="center" alt="regedit" height="40" width="40" src="https://cdn.icon-icons.com/icons2/17/PNG/256/regedit_1983.png">
     <img align="center" alt="nasm" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nasm_icon_132182.png">
     <img align="center" alt="MariaDB" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_mariadb_icon_130403.png">
     <img align="center" alt="KaliLinux" height="40" width="40" src="https://icons.iconarchive.com/icons/simpleicons-team/simple/128/kali-linux-icon.png">
