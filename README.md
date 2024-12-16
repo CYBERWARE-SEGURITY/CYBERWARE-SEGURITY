@@ -7,7 +7,7 @@
 
 ##
 
-### Main Languages
+### Main Languages:
 <div style="display: inline_block"><br>
   <img align="center" alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
   <img align="center" alt="C++" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
@@ -16,7 +16,7 @@
 
 ##
 
-### Main Tools
+### Main Tools:
 <div style="display: inline_block"><br>
   <img align="center" alt="VISUAL STUDIO" height="40" width="40" src="https://cdn.icon-icons.com/icons2/195/PNG/256/Visual_Studio_23517.png">
     <img align="center" alt="VSCODE" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png">
@@ -32,15 +32,14 @@
     <img align="center" alt="NASM" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nasm_icon_132182.png">
     <img align="center" alt="MARIADB" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_mariadb_icon_130403.png">
     <img align="center" alt="KALI LINUX" height="60" width="60" src="https://img.icons8.com/?size=100&id=qBWtR72kluCU&format=png&color=000000">
-    <img align="center" alt="Mysql" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mysql_official_logo_icon_169938.png">
-    <img align="center" alt="GNUBash" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/gnu_bash_logo_icon_170079.png">
+    <img align="center" alt="MYSQL" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mysql_official_logo_icon_169938.png">
     <img align="center" alt="postgreSQL" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_logo_icon_146389.png">
     <img align="center" alt="QEMU" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/qemu_logo_icon_169821.png">
 </div>
   
   ##
   
-  ### STUDYING ABOUT
+  ### STUDYING ABOUT:
 <div style="display: inline_block">
   <img align="center" alt="TypeScript" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png">
   <img align="center" alt="REACT" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png">
