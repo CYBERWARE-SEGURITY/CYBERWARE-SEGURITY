@@ -31,7 +31,7 @@
     <img align="center" alt="VMWARE" height="40" width="40" src="https://cdn.icon-icons.com/icons2/195/PNG/256/VMware_23516.png">
     <img align="center" alt="NASM" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nasm_icon_132182.png">
     <img align="center" alt="MARIADB" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_mariadb_icon_130403.png">
-    <img align="center" alt="KALI LINUX" height="40" width="40" src="https://toppng.com/public/uploads/preview/kali-linux-logo-11562915225uyursxhbp6.png">
+    <img align="center" alt="KALI LINUX" height="40" width="40" src="https://logowik.com/content/uploads/images/kali-linux2962.jpg">
     <img align="center" alt="Mysql" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mysql_official_logo_icon_169938.png">
     <img align="center" alt="GNUBash" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/gnu_bash_logo_icon_170079.png">
     <img align="center" alt="postgreSQL" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_logo_icon_146389.png">
