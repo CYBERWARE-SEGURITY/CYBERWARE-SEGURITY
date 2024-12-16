@@ -22,7 +22,7 @@
     <img align="center" alt="VSCODE" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png">
     <img align="center" alt="LINUX" height="40" width="40" src="https://cdn.icon-icons.com/icons2/46/PNG/128/linux_penguin_animal_9362.png">
     <img align="center" alt="WINDOWS" height="40" width="40" src="https://cdn.icon-icons.com/icons2/5/PNG/256/windows_284.png">
-    <img align="center" alt="GITHUB" height="40" width="40" src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png">
+    <img align="center" alt="GITHUB" height="40" width="40" src="https://img.icons8.com/?size=100&id=LoL4bFzqmAa0&format=png&color=000000">
     <img align="center" alt="POWERSHELL" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_powershell_icon_130243.png">
     <img align="center" alt="WINDOWS TERMINAL" height="40" width="40" src="https://cdn.icon-icons.com/icons2/3266/PNG/512/terminal_box_icon_207302.png">
     <img align="center" alt="NOTEPAD++" height="40" width="40" src="https://cdn.icon-icons.com/icons2/153/PNG/256/notepad_21851.png">
