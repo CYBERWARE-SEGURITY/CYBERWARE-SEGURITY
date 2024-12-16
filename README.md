@@ -21,17 +21,17 @@
   <img align="center" alt="VISUAL STUDIO" height="40" width="40" src="https://cdn.icon-icons.com/icons2/195/PNG/256/Visual_Studio_23517.png">
     <img align="center" alt="VSCODE" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png">
     <img align="center" alt="LINUX" height="40" width="40" src="https://cdn.icon-icons.com/icons2/46/PNG/128/linux_penguin_animal_9362.png">
-    <img align="center" alt="Windows" height="40" width="40" src="https://cdn.icon-icons.com/icons2/5/PNG/256/windows_284.png">
+    <img align="center" alt="WINDOWS" height="40" width="40" src="https://cdn.icon-icons.com/icons2/5/PNG/256/windows_284.png">
     <img align="center" alt="GITHUB" height="40" width="40" src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png">
-    <img align="center" alt="Powershell" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_powershell_icon_130243.png">
-    <img align="center" alt="WinTerminal" height="40" width="40" src="https://cdn.icon-icons.com/icons2/3266/PNG/512/terminal_box_icon_207302.png">
-    <img align="center" alt="notepad++" height="40" width="40" src="https://cdn.icon-icons.com/icons2/153/PNG/256/notepad_21851.png">
-    <img align="center" alt="nuget" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_nuget_icon_130294.png">
-    <img align="center" alt="net" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/dot_net_plain_wordmark_logo_icon_146545.png">
-    <img align="center" alt="VMware" height="40" width="40" src="https://cdn.icon-icons.com/icons2/195/PNG/256/VMware_23516.png">
-    <img align="center" alt="nasm" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nasm_icon_132182.png">
-    <img align="center" alt="MariaDB" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_mariadb_icon_130403.png">
-    <img align="center" alt="KaliLinux" height="40" width="40" src="https://icons.iconarchive.com/icons/simpleicons-team/simple/128/kali-linux-icon.png">
+    <img align="center" alt="POWERSHELL" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_powershell_icon_130243.png">
+    <img align="center" alt="WINDOWS TERMINAL" height="40" width="40" src="https://cdn.icon-icons.com/icons2/3266/PNG/512/terminal_box_icon_207302.png">
+    <img align="center" alt="NOTEPAD++" height="40" width="40" src="https://cdn.icon-icons.com/icons2/153/PNG/256/notepad_21851.png">
+    <img align="center" alt="NUGET" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_nuget_icon_130294.png">
+    <img align="center" alt=".NET" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/dot_net_plain_wordmark_logo_icon_146545.png">
+    <img align="center" alt="VMWARE" height="40" width="40" src="https://cdn.icon-icons.com/icons2/195/PNG/256/VMware_23516.png">
+    <img align="center" alt="NASM" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nasm_icon_132182.png">
+    <img align="center" alt="MARIADB" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_mariadb_icon_130403.png">
+    <img align="center" alt="KALI LINUX" height="40" width="40" src="https://toppng.com/public/uploads/preview/kali-linux-logo-11562915225uyursxhbp6.png">
     <img align="center" alt="Mysql" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mysql_official_logo_icon_169938.png">
     <img align="center" alt="GNUBash" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/gnu_bash_logo_icon_170079.png">
     <img align="center" alt="postgreSQL" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_logo_icon_146389.png">
