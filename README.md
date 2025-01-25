@@ -29,7 +29,7 @@
     <img align="center" alt="NUGET" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_nuget_icon_130294.png">
     <img align="center" alt=".NET" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/dot_net_plain_wordmark_logo_icon_146545.png">
     <img align="center" alt="VMWARE" height="40" width="40" src="https://img.icons8.com/?size=100&id=ICsxwkCBZGfj&format=png&color=000000">
-    <img align="center" alt="NASM" height="40" width="40" src="https://seeklogo.com/images/N/netwide-assembler-nasm-logo-EC5B1109AC-seeklogo.com.png&color=000000">
+    <img align="center" alt="NASM" height="40" width="40" src="https://seeklogo.com/images/N/netwide-assembler-nasm-logo-EC5B1109AC-seeklogo.com.png">
     <img align="center" alt="MARIADB" height="40" width="40" src="https://img.icons8.com/?size=100&id=DakakaPez2uy&format=png&color=000000">
     <img align="center" alt="KALI LINUX" height="60" width="60" src="https://img.icons8.com/?size=100&id=qBWtR72kluCU&format=png&color=000000">
     <img align="center" alt="MYSQL" height="40" width="40" src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000">
