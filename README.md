@@ -20,7 +20,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="VISUAL STUDIO" height="40" width="40" src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000">
     <img align="center" alt="VSCODE" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png">
-    <img align="center" alt="LINUX" height="40" width="40" src="https://cdn.icon-icons.com/icons2/46/PNG/128/linux_penguin_animal_9362.png">
+    <img align="center" alt="LINUX" height="40" width="40" src="https://img.icons8.com/?size=100&id=HF4xGsjDERHf&format=png&color=000000">
     <img align="center" alt="WINDOWS" height="40" width="40" src="https://cdn.icon-icons.com/icons2/5/PNG/256/windows_284.png">
     <img align="center" alt="GITHUB" height="40" width="40" src="https://img.icons8.com/?size=100&id=LoL4bFzqmAa0&format=png&color=000000">
     <img align="center" alt="POWERSHELL" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_powershell_icon_130243.png">
