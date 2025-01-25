@@ -32,8 +32,8 @@
     <img align="center" alt="NASM" height="40" width="40" src="https://seeklogo.com/images/N/netwide-assembler-nasm-logo-EC5B1109AC-seeklogo.com.png">
     <img align="center" alt="MARIADB" height="40" width="40" src="https://img.icons8.com/?size=100&id=DakakaPez2uy&format=png&color=000000">
     <img align="center" alt="KALI LINUX" height="60" width="60" src="https://img.icons8.com/?size=100&id=qBWtR72kluCU&format=png&color=000000">
-    <img align="center" alt="MYSQL" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mysql_official_logo_icon_169938.png">
-    <img align="center" alt="POSTGRE_SQL" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_logo_icon_146389.png">
+    <img align="center" alt="MYSQL" height="40" width="40" src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000">
+    <img align="center" alt="POSTGRE_SQL" height="40" width="40" src="https://img.icons8.com/?size=100&id=JRnxU7ZWP4mi&format=png&color=000000">
     <img align="center" alt="QEMU" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/qemu_logo_icon_169821.png">
 </div>
   
