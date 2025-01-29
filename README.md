@@ -19,7 +19,7 @@
 ### Main Tools:
 <div style="display: inline_block"><br>
   <img align="center" alt="VISUAL STUDIO" height="40" width="40" src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000">
-    <img align="center" alt="VSCODE" height="50" width="50" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000">
+    <img align="center" alt="VSCODE" height="42" width="42" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000">
     <img align="center" alt="LINUX" height="40" width="40" src="https://img.icons8.com/?size=100&id=HF4xGsjDERHf&format=png&color=000000">
     <img align="center" alt="WINDOWS" height="40" width="40" src="https://icons.iconarchive.com/icons/tatice/operating-systems/128/Windows-icon.png">
     <img align="center" alt="GITHUB" height="40" width="40" src="https://img.icons8.com/?size=100&id=LoL4bFzqmAa0&format=png&color=000000">
