@@ -42,7 +42,7 @@
   ### STUDYING ABOUT:
 <div style="display: inline_block">
   <img align="center" alt="TypeScript" height="40" width="40" src="https://img.icons8.com/?size=100&id=HcQEdKCkXUs3&format=png&color=000000">
-  <img align="center" alt="REACT" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png">
+  <img align="center" alt="REACT" height="40" width="40" src="https://img.icons8.com/?size=100&id=123609&format=png&color=000000">
   <img align="center" alt="NODE-JS" height="69" width="69" src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000">
 </div>
 
