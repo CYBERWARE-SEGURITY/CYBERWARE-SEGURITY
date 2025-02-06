@@ -1,24 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=50&center=true&vCenter=true&width=1000&lines=HI!++𓇢𓆸+;✳++My+Name+is+CYBERWARE.++✳;Welcome+to+My+Github+Profile++ඞ+++;|◉o◉|⊃━☆)](https://git.io/typing-svg)
 
-<svg viewBox="0 0 1000 100" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    @keyframes rgb {
-      0% { fill: red; }
-      33% { fill: lime; }
-      66% { fill: cyan; }
-      100% { fill: red; }
-    }
-    text {
-      font-size: 50px;
-      font-weight: bold;
-      text-anchor: middle;
-      dominant-baseline: middle;
-      animation: rgb 2s infinite linear;
-    }
-  </style>
-  <text x="50%" y="50%">HI! 𓇢𓆸</text>
-</svg>
-
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CYBERWARE-SEGURITY&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/> 
