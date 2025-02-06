@@ -33,7 +33,7 @@
     <img align="center" alt="KALI LINUX" height="60" width="60" src="https://img.icons8.com/?size=100&id=qBWtR72kluCU&format=png&color=000000">
     <img align="center" alt="MYSQL" height="40" width="40" src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000">
     <img align="center" alt="POSTGRE_SQL" height="40" width="40" src="https://img.icons8.com/?size=100&id=JRnxU7ZWP4mi&format=png&color=000000">
-    <img align="center" alt="QEMU" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/qemu_logo_icon_169821.png">
+    <img align="center" alt="QEMU" height="40" width="40" src="https://qemu.weilnetz.de/icon/benoit/black_and_orange_qemu_head-96x96.png">
     <img align="center" alt="GIT" height="46" width="46" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000">  
 </div>
   
