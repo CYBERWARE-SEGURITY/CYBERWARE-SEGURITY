@@ -26,15 +26,15 @@
     <img align="center" alt="POWERSHELL" height="60" width="60" src="https://img.icons8.com/?size=100&id=FwaVI1qCE7hQ&format=png&color=000000">
     <img align="center" alt="WINDOWS TERMINAL" height="60" width="60" src="https://img.icons8.com/?size=100&id=WbRVMGxHh74X&format=png&color=000000">
     <img align="center" alt="NOTEPAD++" height="60" width="60" src="https://cdn.icon-icons.com/icons2/153/PNG/256/notepad_21851.png">
-    <img align="center" alt="NUGET" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_nuget_icon_130294.png">
-    <img align="center" alt=".NET" height="40" width="40" src="https://img.icons8.com/?size=100&id=1BC75jFEBED6&format=png&color=000000">
-    <img align="center" alt="VMWARE" height="40" width="40" src="https://img.icons8.com/?size=100&id=ICsxwkCBZGfj&format=png&color=000000">
-    <img align="center" alt="MARIADB" height="40" width="40" src="https://img.icons8.com/?size=100&id=DakakaPez2uy&format=png&color=000000">
+    <img align="center" alt="NUGET" height="60" width="60" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_nuget_icon_130294.png">
+    <img align="center" alt=".NET" height="60" width="60" src="https://img.icons8.com/?size=100&id=1BC75jFEBED6&format=png&color=000000">
+    <img align="center" alt="VMWARE" height="60" width="60" src="https://img.icons8.com/?size=100&id=ICsxwkCBZGfj&format=png&color=000000">
+    <img align="center" alt="MARIADB" height="60" width="60" src="https://img.icons8.com/?size=100&id=DakakaPez2uy&format=png&color=000000">
     <img align="center" alt="KALI LINUX" height="60" width="60" src="https://img.icons8.com/?size=100&id=qBWtR72kluCU&format=png&color=000000">
-    <img align="center" alt="MYSQL" height="40" width="40" src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000">
-    <img align="center" alt="POSTGRE_SQL" height="40" width="40" src="https://img.icons8.com/?size=100&id=JRnxU7ZWP4mi&format=png&color=000000">
-    <img align="center" alt="QEMU" height="40" width="40" src="https://qemu.weilnetz.de/icon/benoit/black_and_orange_qemu_head-96x96.png">
-    <img align="center" alt="GIT" height="46" width="46" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000">  
+    <img align="center" alt="MYSQL" height="60" width="60" src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000">
+    <img align="center" alt="POSTGRE_SQL" height="60" width="60" src="https://img.icons8.com/?size=100&id=JRnxU7ZWP4mi&format=png&color=000000">
+    <img align="center" alt="QEMU" height="60" width="60" src="https://qemu.weilnetz.de/icon/benoit/black_and_orange_qemu_head-96x96.png">
+    <img align="center" alt="GIT" height="66" width="66" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000">  
 </div>
   
   ##
