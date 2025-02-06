@@ -18,14 +18,14 @@
 
 ### Main Tools:
 <div style="display: inline_block"><br>
-  <img align="center" alt="VISUAL STUDIO" height="40" width="40" src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000">
-    <img align="center" alt="VSCODE" height="42" width="42" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000">
-    <img align="center" alt="LINUX" height="40" width="40" src="https://img.icons8.com/?size=100&id=HF4xGsjDERHf&format=png&color=000000">
-    <img align="center" alt="WINDOWS" height="40" width="40" src="https://icons.iconarchive.com/icons/tatice/operating-systems/128/Windows-icon.png">
-    <img align="center" alt="GITHUB" height="40" width="40" src="https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000">
-    <img align="center" alt="POWERSHELL" height="40" width="40" src="https://img.icons8.com/?size=100&id=FwaVI1qCE7hQ&format=png&color=000000">
-    <img align="center" alt="WINDOWS TERMINAL" height="40" width="40" src="https://img.icons8.com/?size=100&id=WbRVMGxHh74X&format=png&color=000000">
-    <img align="center" alt="NOTEPAD++" height="40" width="40" src="https://cdn.icon-icons.com/icons2/153/PNG/256/notepad_21851.png">
+  <img align="center" alt="VISUAL STUDIO" height="60" width="60" src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000">
+    <img align="center" alt="VSCODE" height="62" width="62" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000">
+    <img align="center" alt="LINUX" height="60" width="60" src="https://img.icons8.com/?size=100&id=HF4xGsjDERHf&format=png&color=000000">
+    <img align="center" alt="WINDOWS" height="60" width="60" src="https://icons.iconarchive.com/icons/tatice/operating-systems/128/Windows-icon.png">
+    <img align="center" alt="GITHUB" height="60" width="60" src="https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000">
+    <img align="center" alt="POWERSHELL" height="60" width="60" src="https://img.icons8.com/?size=100&id=FwaVI1qCE7hQ&format=png&color=000000">
+    <img align="center" alt="WINDOWS TERMINAL" height="60" width="60" src="https://img.icons8.com/?size=100&id=WbRVMGxHh74X&format=png&color=000000">
+    <img align="center" alt="NOTEPAD++" height="60" width="60" src="https://cdn.icon-icons.com/icons2/153/PNG/256/notepad_21851.png">
     <img align="center" alt="NUGET" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_nuget_icon_130294.png">
     <img align="center" alt=".NET" height="40" width="40" src="https://img.icons8.com/?size=100&id=1BC75jFEBED6&format=png&color=000000">
     <img align="center" alt="VMWARE" height="40" width="40" src="https://img.icons8.com/?size=100&id=ICsxwkCBZGfj&format=png&color=000000">
