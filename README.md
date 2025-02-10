@@ -46,7 +46,7 @@
   ### STUDYING ABOUT:
 <div style="display: inline_block">
   <img align="center" alt="REACT" height="60" width="60" src="https://img.icons8.com/?size=150&id=123609&format=png&color=56AED4">
-  <img align="center" alt="VUE" height="89" width="89" src="https://img.icons8.com/?size=100&id=rY6agKizO9eb&format=png&color=000000">
+  <img align="center" alt="VUE" height="60" width="60" src="https://img.icons8.com/?size=100&id=rY6agKizO9eb&format=png&color=000000">
 </div>
 
   ##
