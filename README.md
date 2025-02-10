@@ -55,7 +55,4 @@
   <a href="https://www.youtube.com/@CYBERWARE-TECH" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="https://linkfly.to/CYBERWARE" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=bbvONhlN0gSL&format=png&color=000000" alt="Linkfly" />
-  </a>
 </div>
