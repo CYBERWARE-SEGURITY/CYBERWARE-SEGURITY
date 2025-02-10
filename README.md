@@ -13,6 +13,7 @@
   <img align="center" alt="C" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
   <img align="center" alt="C++" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="C#" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="TypeScript" height="60" width="60" src="https://img.icons8.com/?size=100&id=HcQEdKCkXUs3&format=png&color=000000">
   <img align="center" alt="VBS" height="60" width="60" src="https://styles.redditmedia.com/t5_2rs9m/styles/communityIcon_obszzg8ln9u31.png">
 </div>
 
@@ -43,7 +44,6 @@
   
   ### STUDYING ABOUT:
 <div style="display: inline_block">
-  <img align="center" alt="TypeScript" height="60" width="60" src="https://img.icons8.com/?size=100&id=HcQEdKCkXUs3&format=png&color=000000">
   <img align="center" alt="REACT" height="60" width="60" src="https://img.icons8.com/?size=150&id=123609&format=png&color=56AED4">
   <img align="center" alt="NODE-JS" height="89" width="89" src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000">
 </div>
