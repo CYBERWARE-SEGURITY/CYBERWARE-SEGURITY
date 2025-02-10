@@ -13,7 +13,7 @@
   <img align="center" alt="C" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
   <img align="center" alt="C++" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="C#" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="VBS" height="60" width="60" src="https://www.clipartmax.com/png/small/210-2108930_advanced-vb-script-training-visual-basic-script-logo.png">
+  <img align="center" alt="VBS" height="60" width="60" src="https://styles.redditmedia.com/t5_2rs9m/styles/communityIcon_obszzg8ln9u31.png">
 </div>
 
 ##
