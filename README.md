@@ -28,8 +28,8 @@
     <img align="center" alt="GITHUB" height="60" width="60" src="https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000">
     <img align="center" alt="POWERSHELL" height="60" width="60" src="https://img.icons8.com/?size=100&id=FwaVI1qCE7hQ&format=png&color=000000">
     <img align="center" alt="WINDOWS TERMINAL" height="60" width="60" src="https://img.icons8.com/?size=100&id=WbRVMGxHh74X&format=png&color=000000">
-    <img align="center" alt="NOTEPAD++" height="60" width="60" src="https://cdn.icon-icons.com/icons2/153/PNG/256/notepad_21851.png">
-    <img align="center" alt="NUGET" height="60" width="60" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_nuget_icon_130294.png">
+    <img align="center" alt="NOTEPAD++" height="60" width="60" src="https://icon-icons.com/icons2/153/PNG/256/notepad_21851.png">
+    <img align="center" alt="NUGET" height="60" width="60" src="https://icon-icons.com/icons2/2107/PNG/512/file_type_nuget_icon_130294.png">
     <img align="center" alt=".NET" height="60" width="60" src="https://img.icons8.com/?size=100&id=1BC75jFEBED6&format=png&color=000000">
     <img align="center" alt="VMWARE" height="60" width="60" src="https://img.icons8.com/?size=100&id=ICsxwkCBZGfj&format=png&color=000000">
     <img align="center" alt="MARIADB" height="60" width="60" src="https://img.icons8.com/?size=100&id=DakakaPez2uy&format=png&color=000000">
