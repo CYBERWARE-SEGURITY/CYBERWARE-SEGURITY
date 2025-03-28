@@ -58,6 +58,6 @@
 </div>
 <div>
   <a href="https://linkfly.to/CYBERWARE">
-    <img src="https://img.shields.io/badge/Linkfly-000000?style=for-the-badge&logo=linktree&logoColor=white" alt="Linkfly" />
+    <img src="https://img.shields.io/badge/Linkfly-000000?style=for-the-badge&logo=linktree&logoColor=white" alt="Linkfly" height="32" width="32" />
   </a>
 </div>
